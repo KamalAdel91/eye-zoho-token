@@ -1,5 +1,6 @@
 {
-    "OrganizationID": "870694656",
-    "WorkspaceID": "2977385000000090003"
-    "BaseURL": "https://analyticsapi.zoho.com/"
+    "BaseURL": "https://analyticsapi.zoho.com/",
+    "ApiPathPrefix": "restapi/v2/workspaces/2977385000000090003/",
+    "OrganizationID": "870694656"
 }
+
